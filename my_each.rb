@@ -10,6 +10,8 @@ def my_each(array)
   end
 end
 
+my_each(array[i])
+
 
 # call your method here!
 #hello_t(["Tim", "Tom", "Jim"]) do |name|
