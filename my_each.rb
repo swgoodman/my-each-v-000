@@ -1,5 +1,3 @@
-require_relative '../my_each.rb'
-
 def my_each(array)
   if block_given?
     i = 0
@@ -12,7 +10,7 @@ def my_each(array)
         array
       else
         puts "Hey! No block was given!"
-      end
+  end
 end
 
 
