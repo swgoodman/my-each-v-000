@@ -10,7 +10,7 @@ def my_each(array)
   end
 end
 
-my_each(array[i])
+my_each(array)
 
 
 # call your method here!
