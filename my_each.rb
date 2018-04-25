@@ -9,5 +9,3 @@ def my_each(array)
       else
   end
 end
-
-
